@@ -39,15 +39,9 @@ Les séminaires ont lieu en hybride en visio (lien confirmé quelques jours avan
 
 
 
-### 19 octobre : Thierry Poibeau — directeur de recherche au CNRS - directeur adjoint du laboratoire [LATTICE](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/) (Langues, Textes, Traitements informatiques et Cognition) - titulaire d’une chaire PRAIRIE (Paris Artificial Intelligence Research Institute) en traitement des langues naturelles et humanités numériques - affiliated lecturer au Département de linguistique théorique et appliquée (DTAL) de l’Université de Cambridge
-*"Analyser les entités dans les romans pour détecter des tendances historiques (grâce au projet BookNLP)"*
+### ~~26 octobre : Marie Puren, Enseignante-Chercheuse à l’EPITA, coordinatrice scientifique du projet AGODA~~
 
-Au cours de cet exposé, je présenterai le projet BookNLP, qui vise à produire des outils pour l’analyse de romans (c’est-à-dire de documents longs, où les mêmes personnages peuvent apparaître sur des centaines de pages). Je montrerai l’importance de l’analyse de la coréférence dans ce contexte. J’illustrerai ce travail par des exemples montrant en quoi ce type d’analyse est important pour une meilleure connaissance de la littérature, de son évolution, mais aussi du contexte culturel et social plus généralement (ce que les anglo-saxons appellent "cultural analytics"). 
-
-
-### 26 octobre : Marie Puren, Enseignante-Chercheuse à l’EPITA, coordinatrice scientifique du projet AGODA
-
-*Titre et résumé à confirmer*
+*Séance reportée, date à confirmer*
 
 
 ### 16 novembre : [Thierry PAQUET](https://pagesperso.litislab.fr/tpaquet/), LITIS (Professeur, Université de Rouen, Directeur du LITIS) — [Denis COQUENET](https://factodeeplearning.github.io/), IRISA (MCF, Université de Rennes) — Thomas CONSTUM , LITIS (Doctorant, Université de Rouen)
@@ -70,6 +64,13 @@ Références :
 
 
 ## Séminaires passés
+
+### 19 octobre 2023 : Thierry Poibeau — directeur de recherche au CNRS - directeur adjoint du laboratoire [LATTICE](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/) (Langues, Textes, Traitements informatiques et Cognition) - titulaire d’une chaire PRAIRIE (Paris Artificial Intelligence Research Institute) en traitement des langues naturelles et humanités numériques - affiliated lecturer au Département de linguistique théorique et appliquée (DTAL) de l’Université de Cambridge
+*"Analyser les entités dans les romans pour détecter des tendances historiques (grâce au projet BookNLP)"*
+
+Au cours de cet exposé, je présenterai le projet BookNLP, qui vise à produire des outils pour l’analyse de romans (c’est-à-dire de documents longs, où les mêmes personnages peuvent apparaître sur des centaines de pages). Je montrerai l’importance de l’analyse de la coréférence dans ce contexte. J’illustrerai ce travail par des exemples montrant en quoi ce type d’analyse est important pour une meilleure connaissance de la littérature, de son évolution, mais aussi du contexte culturel et social plus généralement (ce que les anglo-saxons appellent "cultural analytics"). 
+
+
 
 
 ### 17 mars 2023 : Carmen Brando Lebas (Dr et ingénieure de recherche en Humanités numériques à l'EHESS) et Frédérique Mélanie-Becquet (Ingénieure d’études CNRS en production, traitement et analyse de données au Lattice).
