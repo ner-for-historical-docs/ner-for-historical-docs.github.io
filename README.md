@@ -70,7 +70,7 @@ Références :
 
 Au cours de cet exposé, je présenterai le projet BookNLP, qui vise à produire des outils pour l’analyse de romans (c’est-à-dire de documents longs, où les mêmes personnages peuvent apparaître sur des centaines de pages). Je montrerai l’importance de l’analyse de la coréférence dans ce contexte. J’illustrerai ce travail par des exemples montrant en quoi ce type d’analyse est important pour une meilleure connaissance de la littérature, de son évolution, mais aussi du contexte culturel et social plus généralement (ce que les anglo-saxons appellent "cultural analytics"). 
 
-
+Ressources supplémentaires : [slides](./ressources/20231019-T-Poibeau-slides-bookNLP-Sorbonne.pdf) | [vidéo](https://filesender.renater.fr/?s=download&token=2901d544-1c37-4a8c-b9c9-3a33c9161603)
 
 
 ### 17 mars 2023 : Carmen Brando Lebas (Dr et ingénieure de recherche en Humanités numériques à l'EHESS) et Frédérique Mélanie-Becquet (Ingénieure d’études CNRS en production, traitement et analyse de données au Lattice).
