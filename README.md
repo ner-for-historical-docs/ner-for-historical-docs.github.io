@@ -2,7 +2,7 @@
 
 Nous sommes un groupe de chercheurs travaillant sur la [reconnaissance d'entités nommées](https://en.wikipedia.org/wiki/Named-entity_recognition) dans des documents historiques.
 
-Nous organisons régulièrement un **séminaire** (diffusé en ligne) suivi d'une session d'échange pour les participants présents sur place (généralement à la Maison de la Recherche, 28 rue Serpente, Paris).
+Nous organisons régulièrement un **séminaire** (diffusé en ligne) suivi d'une session d'échange pour les participants présents sur place (généralement à la [Maison de la Recherche, 28 rue Serpente, 75006 Paris](https://www.openstreetmap.org/node/5583148549)).
 
 Nous proposons également une **liste de diffusion** pour partager des articles, des codes, des conférences, des données et toute autre information utile sur la reconnaissance d'entités nommées pour les documents historiques transcrits par reconnaissance optique de caractères (OCR) ou de contenus manuscrits (HTR).
 
@@ -10,7 +10,7 @@ Voici une liste non exhaustive des thèmes qui nous intéressent :
 
 - reconnaissance d'entités nommées (REN) en présence de bruit dans les textes
 - métriques et méthodes de qualité pour la REN sur des textes bruités
-- bonnes pratiques pour l'annotation des entités nommées, l'entraînement et l'évaluation des modèles de REN/Nammed entity linking (NEL)
+- bonnes pratiques pour l'annotation des entités nommées, l'entraînement et l'évaluation des modèles de REN/Named entity linking (NEL)
 
 
 ------ 
@@ -28,7 +28,11 @@ Merci de respecter le thème de la liste lors de l'envoi de messages. Cette list
 ## Prochains séminaires
 
 **Lieu et horaire :**  
-Les séminaires ont lieu en hybride en visio (lien confirmé quelques jours avant chaque séminaire) et à la Maison de la recherche de Sorbonne Université, au 28 rue Serpente, 75006 Paris (salle S002 — couloir immédiatement à gauche dans la maison de la Recherche) de 13h à 15h. 
+Les séminaires ont lieu en 
+
+- hybride en visio (lien confirmé quelques jours avant chaque séminaire)
+- et à la **Maison de la Recherche** de Sorbonne Université, au 28 rue Serpente, 75006 Paris (salle S002 — couloir immédiatement à gauche dans la maison de la Recherche) de 13h à 15h.
+  Afficher le lieu sur [OpenStreetMap](https://www.openstreetmap.org/node/5583148549) | [Google Maps](https://maps.app.goo.gl/dtYSTtkUp3UxbDkq8)
 
 **Format des sessions :**
 
@@ -38,10 +42,6 @@ Les séminaires ont lieu en hybride en visio (lien confirmé quelques jours avan
 4. Discussions libres jusqu’à la fin du créneau. 
 
 
-
-### ~~26 octobre : Marie Puren, Enseignante-Chercheuse à l’EPITA, coordinatrice scientifique du projet AGODA~~
-
-*Séance reportée, date à confirmer*
 
 
 ### 16 novembre : [Thierry PAQUET](https://pagesperso.litislab.fr/tpaquet/), LITIS (Professeur, Université de Rouen, Directeur du LITIS) — [Denis COQUENET](https://factodeeplearning.github.io/), IRISA (MCF, Université de Rennes) — Thomas CONSTUM , LITIS (Doctorant, Université de Rouen)
@@ -64,6 +64,11 @@ Références :
 
 
 ## Séminaires passés
+
+
+### ~~26 octobre : Marie Puren, Enseignante-Chercheuse à l’EPITA, coordinatrice scientifique du projet AGODA~~
+
+*Séance reportée, date à confirmer*
 
 ### 19 octobre 2023 : Thierry Poibeau — directeur de recherche au CNRS - directeur adjoint du laboratoire [LATTICE](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/) (Langues, Textes, Traitements informatiques et Cognition) - titulaire d’une chaire PRAIRIE (Paris Artificial Intelligence Research Institute) en traitement des langues naturelles et humanités numériques - affiliated lecturer au Département de linguistique théorique et appliquée (DTAL) de l’Université de Cambridge
 *"Analyser les entités dans les romans pour détecter des tendances historiques (grâce au projet BookNLP)"*
