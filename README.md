@@ -20,8 +20,7 @@ Voici une liste non exhaustive des thèmes qui nous intéressent :
 
 Vous pouvez consulter la page suivante pour vous **inscrire** et vous **désinscrire librement** : <https://groupes.renater.fr/sympa/info/ner-for-historical-docs>
 
-Merci de respecter le thème de la liste lors de l'envoi de messages. Cette liste est modérée.
-
+Cette liste est modérée ; nous veillons au respect du thème de la liste lors de l'envoi de messages
 
 ------ 
 
@@ -31,8 +30,8 @@ Merci de respecter le thème de la liste lors de l'envoi de messages. Cette list
 Les séminaires ont lieu en 
 
 - hybride en visio (lien confirmé quelques jours avant chaque séminaire)
-- et à la **Maison de la Recherche** de Sorbonne Université, au 28 rue Serpente, 75006 Paris (salle S002 — couloir immédiatement à gauche dans la maison de la Recherche) de 13h à 15h.
-  Afficher le lieu sur [OpenStreetMap](https://www.openstreetmap.org/node/5583148549) | [Google Maps](https://maps.app.goo.gl/dtYSTtkUp3UxbDkq8)
+- et à la **Maison de la Recherche** de Sorbonne Université, au 28 rue Serpente, 75006 Paris (salle S002 — couloir immédiatement à gauche dans la maison de la Recherche) de 13h à 15h.  
+📍 Afficher le lieu sur [OpenStreetMap](https://www.openstreetmap.org/node/5583148549) | [Google Maps](https://maps.app.goo.gl/dtYSTtkUp3UxbDkq8)
 
 **Format des sessions :**
 
@@ -43,13 +42,7 @@ Les séminaires ont lieu en
 
 
 
-
-### 16 novembre : [Thierry PAQUET](https://pagesperso.litislab.fr/tpaquet/), LITIS (Professeur, Université de Rouen, Directeur du LITIS) — [Denis COQUENET](https://factodeeplearning.github.io/), IRISA (MCF, Université de Rennes) — Thomas CONSTUM , LITIS (Doctorant, Université de Rouen)
-
-Cette présentation est dédiée aux approches pour la reconnaissance d’écriture et la reconnaissance d’entités nommées. Nous suivrons l’évolution des techniques utilisées ces dernières années en la matière, et nous nous intéresserons plus particulièrement aux approches récentes basées sur de l’apprentissage profond permettant une reconnaissance de bout-en-bout de documents entiers. Nous verrons comment ces avancées permettent d’envisager le traitement des documents incluant une réelle compréhension de ceux-ci. Des cas d’usage concrets seront étudiés au travers des projets POPP et Exo-POPP portant respectivement sur des tableaux de recensements et des actes de mariages. 
-
-
-### 14 décembre : Florence Clavaud , Responsable du Lab aux Archives nationales de France, et membre de l'équipe de recherche EA 3624 (Centre Jean-Mabillon) de l'Ecole nationale des chartes
+### ~~14 décembre~~ (REPORTÉ, DATE À CONFIRMER) : Florence Clavaud , Responsable du Lab aux Archives nationales de France, et membre de l'équipe de recherche EA 3624 (Centre Jean-Mabillon) de l'Ecole nationale des chartes
 *"NER4Archives : reconnaître, réconcilier et identifier les entités nommées dans les instruments de recherche archivistiques au format EAD"*
 
 Depuis fin 2020, les Archives nationales et l'équipe ALMAnaCH de l'Inria ont joint leurs forces, avec le soutien du ministère de la Culture, pour travailler à la reconnaissance des entités nommées dans les instruments de recherche au format XML/EAD. L'enjeu est important : les Archives nationales gèrent un corpus de plus de 31000 fichiers XML/EAD, qui constituent le coeur de leur système d'information en ligne et qui décrivent les millions de documents et groupes de documents conservés par l'institution ; mais pour diverses raisons ces fichiers sont très peu indexés, ce qui prive les usagers des Archives nationales de points d'entrée appropriés lorsqu'ils font des recherches dans les métadonnées afin d'identifier les documents et données qui les intéressent. II n'est pas possible de procéder à une indexation manuelle de ce corpus. Le problème est globalement le même dans les autres services d'archives français. Les Archives nationales disposent par ailleurs de référentiels servant à l'indexation de ces métadonnées, qu'elles ont sémantisés et souhaitent enrichir par tous les moyens utilisables. Le projet NER4Archives (Named Entity Recognition For Archives), qui entrera dans sa deuxième phase à l'automne 2023, vise donc à doter les Archives nationales (et potentiellement tout autre service intéressé) de corpus d'apprentissage et de modèles d'IA efficaces pour parvenir à annoter les entités nommées mentionnées dans les fichiers EAD, à les classifier, à les réconcilier et à les lier à des référentiels existants (Wikidata) afin d'en extraire des données, pour produire en sortie des fichiers EAD indexés, les éléments d'indexation ainsi posés étant associés à des notices des référentiels des Archives nationales, qu'elles préexistent ou qu'elles aient été créées dans le cadre du projet. La présentation, qui sera faite par plusieurs personnes représentant les deux entités qui portent le projet, évoquera dans un premier temps le contexte, les spécificités et les enjeux du projet, en fera l'historique et en présentera les résultats déjà obtenus, pour évoquer ensuite les scénarios et pistes d'intégration des outils développés dans les outils de travail des archivistes.
@@ -64,6 +57,11 @@ Références :
 
 
 ## Séminaires passés
+
+
+### 16 novembre : [Thierry PAQUET](https://pagesperso.litislab.fr/tpaquet/), LITIS (Professeur, Université de Rouen, Directeur du LITIS) — [Denis COQUENET](https://factodeeplearning.github.io/), IRISA (MCF, Université de Rennes) — Thomas CONSTUM , LITIS (Doctorant, Université de Rouen)
+
+Cette présentation est dédiée aux approches pour la reconnaissance d’écriture et la reconnaissance d’entités nommées. Nous suivrons l’évolution des techniques utilisées ces dernières années en la matière, et nous nous intéresserons plus particulièrement aux approches récentes basées sur de l’apprentissage profond permettant une reconnaissance de bout-en-bout de documents entiers. Nous verrons comment ces avancées permettent d’envisager le traitement des documents incluant une réelle compréhension de ceux-ci. Des cas d’usage concrets seront étudiés au travers des projets POPP et Exo-POPP portant respectivement sur des tableaux de recensements et des actes de mariages. 
 
 
 ### ~~26 octobre : Marie Puren, Enseignante-Chercheuse à l’EPITA, coordinatrice scientifique du projet AGODA~~
