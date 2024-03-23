@@ -1,4 +1,4 @@
-### 17 mars 2023 : Carmen Brando Lebas (Dr et ingénieure de recherche en Humanités numériques à l'EHESS) et Frédérique Mélanie-Becquet (Ingénieure d’études CNRS en production, traitement et analyse de données au Lattice).
+## 17 mars 2023 : Carmen Brando Lebas (Dr et ingénieure de recherche en Humanités numériques à l'EHESS) et Frédérique Mélanie-Becquet (Ingénieure d’études CNRS en production, traitement et analyse de données au Lattice).
 
 *Annuaires de propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte*
 
