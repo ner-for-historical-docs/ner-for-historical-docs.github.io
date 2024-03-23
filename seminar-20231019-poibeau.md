@@ -1,0 +1,6 @@
+### 19 octobre 2023 : Thierry Poibeau — directeur de recherche au CNRS - directeur adjoint du laboratoire [LATTICE](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/) (Langues, Textes, Traitements informatiques et Cognition) - titulaire d’une chaire PRAIRIE (Paris Artificial Intelligence Research Institute) en traitement des langues naturelles et humanités numériques - affiliated lecturer au Département de linguistique théorique et appliquée (DTAL) de l’Université de Cambridge
+*"Analyser les entités dans les romans pour détecter des tendances historiques (grâce au projet BookNLP)"*
+
+Au cours de cet exposé, je présenterai le projet BookNLP, qui vise à produire des outils pour l’analyse de romans (c’est-à-dire de documents longs, où les mêmes personnages peuvent apparaître sur des centaines de pages). Je montrerai l’importance de l’analyse de la coréférence dans ce contexte. J’illustrerai ce travail par des exemples montrant en quoi ce type d’analyse est important pour une meilleure connaissance de la littérature, de son évolution, mais aussi du contexte culturel et social plus généralement (ce que les anglo-saxons appellent "cultural analytics"). 
+
+Ressources supplémentaires : [slides](./ressources/20231019-T-Poibeau-slides-bookNLP-Sorbonne.pdf) | [vidéo](https://filesender.renater.fr/?s=download&token=2901d544-1c37-4a8c-b9c9-3a33c9161603)
