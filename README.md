@@ -43,6 +43,7 @@ Vous pouvez visualiser rapidement les prochains événements sur ce calendrier. 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_e18225cb33bf2dac7b2b38cc05452690daa401dc96d08fc9bd68eb9d96671238%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Séminaires à venir
+
 | Date | Intervenant(e)(s) | Titre  | Détails |
 |----------|-------|----------|----------|
 | 28 mars 2024 | Solène Tarride (Dr, Ingénieure chez [Teklia](https://teklia.com/)) | Extraction d'informations structurées dans des documents historiques | [description](./seminar-20240328-tarride.md) |
