@@ -25,10 +25,10 @@ Vous pouvez consulter la page suivante pour vous **inscrire** et vous **désinsc
 ## Prochains séminaires
 
 ### Lieu et horaire
-Les séminaires ont lieu en hybride
+Les séminaires ont lieu en **hybride** de **12h à 13h** pour chaque date indiquée
 
-- en visio (lien confirmé quelques jours avant chaque séminaire)
-- et à la **Maison de la Recherche** de Sorbonne Université, au 28 rue Serpente, 75006 Paris (consultez l'écran à l'entrée la maison de la Recherche pour vérifier la salle) de 12h à 13h.  
+- en **visio** (lien confirmé quelques jours avant chaque séminaire)
+- et à la **Maison de la Recherche** de Sorbonne Université, au 28 rue Serpente, 75006 Paris (consultez l'écran à l'entrée la maison de la Recherche pour vérifier la salle)  
 📍 Afficher le lieu sur [OpenStreetMap](https://www.openstreetmap.org/node/5583148549) | [Google Maps](https://maps.app.goo.gl/dtYSTtkUp3UxbDkq8)
 
 ### Format des sessions
@@ -39,7 +39,7 @@ Les séminaires ont lieu en hybride
 4. Discussions libres jusqu’à la fin du créneau. 
 
 ###  Calendrier
-Vous pouvez visualiser rapidement les prochains événements sur ce calendrier. Vous pouvez également vous y abonner avec le client ou de service de votre choix.
+Vous pouvez visualiser rapidement les prochains événements sur ce calendrier. Vous pouvez également vous y abonner avec le client ou le service de votre choix.
 <iframe src="https://calendar.google.com/calendar/embed?src=c_e18225cb33bf2dac7b2b38cc05452690daa401dc96d08fc9bd68eb9d96671238%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Séminaires à venir
