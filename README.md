@@ -14,7 +14,16 @@ Nous proposons également une **liste de diffusion** dans laquelle nous annonço
 - les méthodes et outils de visualisation des données produites
 - ou tout autre aspect que vous jugerez pertinent.
 
-{:toc}
+**Contenu de cette page**  
+- [NER for OCR'ed historical documents in Paris](#ner-for-ocred-historical-documents-in-paris)
+  - [Liste de diffusion](#liste-de-diffusion)
+  - [Prochains séminaires](#prochains-séminaires)
+    - [Lieu et horaire](#lieu-et-horaire)
+    - [Format des sessions](#format-des-sessions)
+    - [Calendrier](#calendrier)
+    - [Séminaires à venir](#séminaires-à-venir)
+    - [Séminaires passés](#séminaires-passés)
+
 
 ## Liste de diffusion
 
