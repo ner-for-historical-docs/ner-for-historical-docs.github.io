@@ -14,6 +14,7 @@ Nous proposons également une **liste de diffusion** dans laquelle nous annonço
 - les méthodes et outils de visualisation des données produites
 - ou tout autre aspect que vous jugerez pertinent.
 
+{:toc}
 
 ## Liste de diffusion
 
@@ -46,7 +47,7 @@ Vous pouvez visualiser rapidement les prochains événements sur ce calendrier. 
 
 | Date | Intervenant(e)(s) | Titre  | Détails |
 |----------|-------|----------|----------|
-| 28 mars 2024 | Solène Tarride (Dr, Ingénieure chez [Teklia](https://teklia.com/)) | Extraction d'informations structurées dans des documents historiques | [description](./seminar-20240328-tarride.md) |
+| 28 mars 2024 | **Solène Tarride** (Dr, Ingénieure chez [Teklia](https://teklia.com/)) | Extraction d'informations structurées dans des documents historiques | [description](./seminar-20240328-tarride.md) |
 | 30 mai 2024 | **Florence Clavaud**, Responsable du Lab aux Archives nationales de France, et membre de l'équipe de recherche EA 3624 (Centre Jean-Mabillon) de l'Ecole nationale des chartes | NER4Archives : reconnaître, réconcilier et identifier les entités nommées dans les instruments de recherche archivistiques au format EAD | [description](./seminar-20240530-clavaud.md) |
 | 20 juin 2024 | **Marie Puren** (enseignante-chercheuse à l'EPITA) | *titre à confirmer* |  |
 
