@@ -23,6 +23,7 @@ Nous proposons également une **liste de diffusion** dans laquelle nous annonço
     - [Calendrier](#calendrier)
     - [Séminaires à venir](#séminaires-à-venir)
     - [Séminaires passés](#séminaires-passés)
+  - [Comité d'organisation](#comité-dorganisation)
 
 
 ## Liste de diffusion
@@ -71,3 +72,11 @@ Vous pouvez visualiser rapidement les prochains événements sur ce calendrier. 
 | 7 juillet 2022 | Organisateurs séminaire | Session d'introduction |  |
 
 
+## Comité d'organisation
+Les activités de ce groupe de travail sont organisées par les personnes suivantes (par ordre alphabétique) :
+- [Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/) : chargée de recherche, LaSTIG/IGN
+- [Joseph Chazalon](https://jchazalon.github.io/) : enseignant chercheur, LRE/EPITA
+- [Bertrand Duménieu](http://crh.ehess.fr/index.php?5206) : ingénieur de recherche, CRH/EHESS
+- [Christopher Kermorvant](https://www.linkedin.com/in/christopher-kermorvant-87158b2/) : directeur, TEKLIA
+- [Gaël Lejeune](http://www.lejeunegael.fr/) : maître de conférences HDR,  STIH/Sorbonne Université
+- [Caroline Parfait](https://obtic.sorbonne-universite.fr/equipe-permanente/caroline-parfait/) : doctorante, ObTIC/Sorbonne Université
